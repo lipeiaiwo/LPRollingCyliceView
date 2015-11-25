@@ -5,7 +5,7 @@
 
 1.项目中需要 SDWebImage
 
-2. 调用类方法,有点击图片事件的回调
+2.调用类方法,有点击图片事件的回调
 
 [LPRollingCylcleView rollingCylcleViewWithView:view picArray:array placeholderImage:[UIImage imageNamed:@"loading_02"] didSelectItemAtIndexPath:^(NSUInteger index) {
 
